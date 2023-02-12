@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mostafa</h1>
 <h3 align="center">A passionate Backend developer using NodeJS</h3>
 
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome,+follow+to+see+more+codes+️‍🔥" /> </p>
+
 - 🌱 I’m currently learning **TypeScript**
 
 - 💬 Ask me about **MERN**
