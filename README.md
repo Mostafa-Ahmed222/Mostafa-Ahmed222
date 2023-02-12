@@ -44,8 +44,6 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs?username=mostafa-ahmed222&theme=dark&show_icons=true&locale=en&layout=compact)](https://git.io/streak-stats)
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa-ahmed222&theme=dark&show_icons=true&locale=en&layout=compact" alt="mostafa-ahmed222" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa-ahmed222&theme=dark&" alt="mostafa-ahmed222" /></p>
