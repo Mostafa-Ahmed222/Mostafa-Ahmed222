@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome,+follow+to+see+more+codes+️‍🔥" /> </p>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **NestJS**
 
 - 💬 Ask me about **MERN**
 
