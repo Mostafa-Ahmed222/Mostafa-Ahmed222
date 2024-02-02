@@ -15,7 +15,11 @@
 <p align="left">
 <a href="https://linkedin.com/in/mostafa-ahmed222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa-ahmed222" height="30" width="40" /></a>
 
-<a href="mailto:mostafa.ahmed.salah.222@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" height="30" />
+<a href="https://fb.com/mostafa.ahmed.mohamed.22.2?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mostafa.ahmed.mohamed.22.2?mibextid=zbwkwl" height="30" width="40" /></a>
+<a href="https://wa.me/201124284915" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Whatsapp Badge" height="30" width="40" /></a>
+<a href="https://instagram.com/mostafa.ahmed_222?igshid=ZDdkNTZiNTM=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Whatsapp Badge" height="30" width="40" /></a>
+
+
 
 </p>
 
