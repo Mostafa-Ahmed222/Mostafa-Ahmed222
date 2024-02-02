@@ -14,9 +14,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mostafa-ahmed222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa-ahmed222" height="30" width="40" /></a>
-<a href="https://fb.com/mostafa.ahmed.mohamed.22.2?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mostafa.ahmed.mohamed.22.2?mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://wa.me/201124284915" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Whatsapp Badge" height="30" width="40" /></a>
-<a href="https://instagram.com/mostafa.ahmed_222?igshid=ZDdkNTZiNTM=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Whatsapp Badge" height="30" width="40" /></a>
+
+<a href="mailto:mostafa.ahmd.salah.222@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836     
+style=flat&logo=Gmail&logoColor=white" height="25"/>
+
 
 </p>
 
@@ -43,7 +44,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
-                                      ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa-ahmed222&theme=dark&show_icons=true&locale=en&layout=compact" alt="mostafa-ahmed222" /></p>
 
