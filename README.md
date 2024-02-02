@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<a href="https://linkedin.com/in/mostafa-ahmed222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mostafa-ahmed222" target="blank"><img align="center" src="https://img.shields.io/badge/-Mostafa Ahmed-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" height="30" /></a>
 <a href="mailto:mostafa.ahmed.salah.222@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail" height="25" /></a>
 
 </p>
