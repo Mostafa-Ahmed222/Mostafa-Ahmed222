@@ -15,9 +15,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/mostafa-ahmed222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa-ahmed222" height="30" width="40" /></a>
 
-<a href="mailto:mostafa.ahmd.salah.222@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836     
-style=flat&logo=Gmail&logoColor=white" height="25"/>
 
+<a href="mailto:mostafa.ahmd.salah.222@gmail.com"><img align="center" src="mailto:mostafa.ahmd.salah.222@gmail.com" alt="mostafa-ahmed222" height="30" width="40" /></a>
 
 </p>
 
