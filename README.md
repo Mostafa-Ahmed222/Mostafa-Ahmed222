@@ -5,11 +5,9 @@
 
 - 🌱 I’m currently learning **NestJS**
 
-- 💬 Ask me about **MERN**
-
-- 📫 How to reach me **mostafa.ahmed.salah.222@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1idfRtUmwzjZuDOaFntLQwSOqcR_vXAU8/view?usp=drivesdk](https://drive.google.com/file/d/1idfRtUmwzjZuDOaFntLQwSOqcR_vXAU8/view?usp=drivesdk)
+
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1idfRtUmwzjZuDOaFntLQwSOqcR_vXAU8/view?usp=drivesdk"><b>Resume</b></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
