@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mostafa</h1>
-<h3 align="center">A passionate Backend developer using NodeJS</h3>
+<h3 align="center">Experienced Backend Developer with a self-motivated and dedicated approach to creating robust and efficient server-side solutions. Passionate about building scalable and high-performance applications using Node.js, NestJS, and Express. Proven expertise in backend technologies, including RESTful APIs, database design, and server-side logic implementation. Committed to delivering clean and maintainable code while ensuring optimal application performance.</h3>
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome,+follow+to+see+more+codes+️‍🔥" /> </p>
 
 - 🌱 I’m currently learning **NestJS**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1idfRtUmwzjZuDOaFntLQwSOqcR_vXAU8/view?usp=drivesdk](https://drive.google.com/file/d/1idfRtUmwzjZuDOaFntLQwSOqcR_vXAU8/view?usp=drivesdk)
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1idfRtUmwzjZuDOaFntLQwSOqcR_vXAU8/view?usp=drivesdk"><b>Resume</b></a>
 
