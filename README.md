@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mostafa</h1>
-<h3 align="center">Experienced Backend Developer with a self-motivated and dedicated approach to creating robust and efficient server-side solutions. Passionate about building scalable and high-performance applications using Node.js, NestJS, and Express. Proven expertise in backend technologies, including RESTful APIs, database design, and server-side logic implementation. Committed to delivering clean and maintainable code while ensuring optimal application performance.</h3>
+<h3 align="center">A self-motivated software developer, interested in Fintech Solutions and Software Architecture, fond of doing polished and premium
+software projects and getting involved in every software development stage. Eager to work in a well-organized, productive, and
+energetic circle to discover new design patterns and sharpen my skills around a well-versed Scrum.</h3>
 
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome,+follow+to+see+more+codes+️‍🔥" /> </p>
 
 - 🌱 I’m currently learning **NestJS**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1idfRtUmwzjZuDOaFntLQwSOqcR_vXAU8/view?usp=drivesdk"><b>Resume</b></a>
+- 📄 Know about my experiences <a href="[https://drive.google.com/file/d/1idfRtUmwzjZuDOaFntLQwSOqcR_vXAU8/view?usp=drivesdk](https://drive.google.com/file/d/1y2eVWh_3FQGGSnNlT7ClOGWHNLSbSudx/view?usp=sharing)"><b>Resume</b></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
