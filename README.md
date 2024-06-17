@@ -8,7 +8,7 @@ energetic circle to discover new design patterns and sharpen my skills around a 
 
 - 🌱 I’m currently learning **NestJS**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1y2eVWh_3FQGGSnNlT7ClOGWHNLSbSudx/view?usp=sharing"><b>Resume</b></a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1LIl8_Ffuto1CRu5q74WQqaJOh6eLILGV/view?usp=sharing"><b>Resume</b></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
